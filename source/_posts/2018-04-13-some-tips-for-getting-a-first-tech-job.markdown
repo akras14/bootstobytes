@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some Tips for Getting a First Tech Job"
+title: "Tips for Passing a Tech Interview"
 date: 2018-04-13 10:13:10 -0700
 comments: true
 categories:
